@@ -1,1 +1,1 @@
-print("Hola Dios, gracia por permitirme estudiar programación : con toda y mas cambios para aprender mas")
+print("Hola Dios, gracia por permitirme estudiar programación : ahora proceso inverso")
