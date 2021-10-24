@@ -1,1 +1,1 @@
-print("Hola Dios, gracia por permitirme estudiar programación hoy: con toda")
+print("Hola Dios, gracia por permitirme estudiar programación : con toda")
